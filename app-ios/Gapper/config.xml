@@ -36,7 +36,7 @@
     <preference name="SuppressesIncrementalRendering" value="false" />
     <preference name="TopActivityIndicator" value="gray" />
 
-    <content src="index.html" />
+    <content src="src/index.html" />
 
     <plugins>
         <plugin name="Device" value="CDVDevice" />
